@@ -28,15 +28,15 @@
 
 - SYSTEM: Msi GF63
 
-- [![Website](https://img.shields.io/website?label=HEROKU&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
+- [![Website](https://img.shields.io/website?label=HEROKU&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/esto_420)
 
-- [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
+- [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/esto_420)
 
-- [![Website](https://img.shields.io/website?label=MongoDB&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
+- [![Website](https://img.shields.io/website?label=MongoDB&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/esto_420)
 
-- [![Website](https://img.shields.io/website?label=VScode&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
+- [![Website](https://img.shields.io/website?label=VScode&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/esto_420)
 
-- [![Website](https://img.shields.io/website?label=TELEGRAM&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
+- [![Website](https://img.shields.io/website?label=TELEGRAM&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/esto_420)
 # System Specs: 
 
 
