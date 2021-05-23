@@ -2,7 +2,7 @@
 - 👀 I’m interested in bot devoleping
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking supportive members
-- 📫 you can reach me https://t.me/esto_420
+- 📫 you can reach me on telegram as [ RAMU ](http://t.me/esto_420)
 
 <!---
 Zyruz-ramu/Zyruz-ramu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
