@@ -23,3 +23,22 @@
 ### Connect 
 
 [<img align="left" alt="esto_420 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] Esto_420
+
+# Tools 
+
+- SYSTEM: Msi GF63
+# System Specs: 
+
+- i5 9th Gen
+- 8 GB Ram
+- 4 GB video Memory / Graphic Card
+- HP GM G200 (mouse)
+- Heatz ZG01 Headset
+
+
+# Games 
+
+- GTA 5
+- Blair witch
+- Forza Horizon 4\
+- Euro Truck... nd more
