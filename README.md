@@ -22,4 +22,4 @@
 
 ### Connect 
 
-[<img align="left" alt="esto_420 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Esto_420]
+[<img align="left" alt="esto_420 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] Esto_420
