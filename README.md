@@ -27,8 +27,12 @@
 # Tools 
 
 - SYSTEM: Msi GF63
-- 
-![Website](https://img.shields.io/website?label=HEROKU.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
+
+- [Website](https://img.shields.io/website?label=HEROKU&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
+
+- [Online](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
+
+-
 # System Specs: 
 
 
